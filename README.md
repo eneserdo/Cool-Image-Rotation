@@ -15,6 +15,4 @@ Parameters:
 
 Here an example video:
 
-
-https://user-images.githubusercontent.com/25674329/113774637-34809b00-9730-11eb-8c86-7c5ea1b0f707.mp4
-
+![movie](https://user-images.githubusercontent.com/25674329/113775283-27b07700-9731-11eb-83f4-a0f91abd9207.gif)
