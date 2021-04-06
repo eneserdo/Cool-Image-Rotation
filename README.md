@@ -12,3 +12,9 @@ Parameters:
 --size: Image size (must be power of 2). Default size will be automatically aranged
 
 --effect: For real shuffling effect. Default is 1 (True)
+
+Here an example video:
+
+
+https://user-images.githubusercontent.com/25674329/113774637-34809b00-9730-11eb-8c86-7c5ea1b0f707.mp4
+
