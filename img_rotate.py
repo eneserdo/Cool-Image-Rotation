@@ -6,8 +6,8 @@ import argparse
 
 def options():
     arg = argparse.ArgumentParser()
-    arg.add_argument('--image', default=0, help='Enter the image directory or enter 0 to open the camera')
-    arg.add_argument('--speed', type=int, default=2, help='0: Image, 1: Camera')
+    arg.add_argument('-i','--image', default=0, help='Enter the image directory or enter 0 to open the camera')
+    arg.add_argument('-s','--speed', type=int, default=2, help='0: Image, 1: Camera')
     arg.add_argument('--effect', type=int, default=1, help='1: On, 0: Off, For real shuffling effect')
     arg.add_argument('--size', type=int, default=None, help='Size of the image, Must be power of 2')
 
