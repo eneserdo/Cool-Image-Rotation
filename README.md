@@ -5,9 +5,9 @@ This is a fun project for image rotation in a cool way. All functions are in the
 
 Parameters:
 
---image: Give an image directory. Or to open the camera type 1, and after camera window is opened, press s to capture a picture.
+-i, --image: Give an image directory. Or to open the camera type 1, and after camera window is opened, press s to capture a picture.
 
---speed: Change the speed (must be multiple of 2). Default speed=2
+-s, --speed: Change the speed (must be multiple of 2). Default speed=2
 
 --size: Image size (must be power of 2). Default size will be automatically aranged.
 
